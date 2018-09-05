@@ -20,3 +20,10 @@ Ya vamos encontrando que la primera misión será **averiguar cuál es la propue
 
 Para averiguar todo ello y enfocar la propuesta de soluciones se le propone una **consultoría de descubrimiento de producto**. Se concretará en 3-5 mañanas de trabajo conjunto con el cliente en nuestras oficinas.
 
+### Consultoría de descubrimiento de producto
+Una vez agendada, prepararíamos la sala y estaríamos no más de 6 personas. El deseable sería: el cliente, algún experto (del lado del cliente), alguien de perfil técnico, de ux, de negocio, alguien que sepa de los usuarios.
+
+La agenda propuesta podría estar basada en esta:
+
+Y el desglose de actividades día a día estaría basado en esta agenda:
+
