@@ -23,8 +23,12 @@ Para averiguar todo ello y enfocar la propuesta de soluciones se le propone una 
 ### Consultoría de descubrimiento de producto
 Una vez agendada, prepararíamos la sala y estaríamos no más de 6 personas. El deseable sería: el cliente, algún experto (del lado del cliente), alguien de perfil técnico, de ux, de negocio, alguien que sepa de los usuarios.
 
-La agenda propuesta podría estar basada en esta:
+---
+
+La agenda propuesta podría ser una **versión simplificada** de esta propuesta completa:
 ![agenda propuesta](./images/discovery_proposal.png)
 
-Y el desglose de actividades día a día estaría basado en esta agenda:
+---
+
+Y el desglose de actividades día a día estaría basado en una **versión simplificada** de esta agenda:
 ![agenda día a día](./images/discovery_day_by_day.png)
